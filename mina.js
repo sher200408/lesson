@@ -203,3 +203,84 @@
 // console.log(seriesDB)
 
 
+// const numberOfsriv = +prompt("Nechata serial ko'rgansiz","");
+
+// const seriesDB = {
+//     count: numberOfsriv,
+//     series: {},
+//     actors:{},
+//     genres:[],
+//     privat: false,
+// }
+// let a =  prompt("oxirgi ko'rgan serialingiz"),
+//      b = prompt("nechi boxo bersiz"),
+//      c = prompt("Oxirgi ko'rgan serilingiz"),
+//      d = prompt("nechi baxo berasnsiz");
+
+//      seriesDB.series[a]=b;
+//      seriesDB.series[c]=d;
+
+//      console.log (seriesDB)
+
+
+
+// const age =  +prompt("how old are yu  ","");
+
+// if(age>18){
+//     console.log("welcome to sex bro ");
+// }else{
+//     console.log("no entry")
+// };
+
+
+// const age =  +prompt("how old are yu  ","");
+
+// if (age > 25 ){
+//     alert("horror filems")
+// }else if (age > 18 && age < 25){
+//     alert("boyvik filem");
+// }else{
+//     alert("multik");
+// }
+
+// (age > 25 ) ? alert("horror filems") : alert("multik");
+
+// const color = "fffsd"
+
+// switch(color){
+//     case "red":
+//         console.log("good job color stop");
+//     break;
+//     case "green":
+//         console.log("good job color goo");
+//     break;
+//     case "Yellow":
+//         console.log("good job color I like not color stop");
+//     break;
+//     default :
+//     console.log("no traffic jam no bro")
+//     break;
+// }
+
+//  let num = "10";
+
+//  switch (num){
+//     case "10":
+//         console.log("to'gri boldi");
+//      break   
+//  }
+
+
+// let son = +prompt("");
+
+// if(son > 1 || -1 < son ){
+//     console.log(son+" musbat")
+// }else{
+//     console.log(son+" manfi")
+// }
+
+// let a = +prompt("son kirdn")
+// let p = 4*a ;
+
+// alert(p);
+
